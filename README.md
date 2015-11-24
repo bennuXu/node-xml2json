@@ -24,7 +24,7 @@ console.log( json.xml )
 </pre>
 
 ## 更新日志：
-version 1.0.0 [2012-05-06]
+version 1.0.0 [2015-11-22]
 * 在[https://github.com/Kenshin/js-pagination](https://github.com/Kenshin/js-pagination)的基础上，修改长数字字符串转换的问题
 * xml对象转换Json对象
 
