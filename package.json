@@ -1,5 +1,5 @@
 {
-  "name": "node-xml2json",
+  "name": "bennu-node-xml2json",
   "version": "1.0.0",
   "description": "xml to json for Node.js",
   "author": "bennuXu <xuxf@stpass.com>",
